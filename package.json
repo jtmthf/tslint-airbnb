@@ -1,0 +1,23 @@
+{
+  "name": "tslint-airbnb",
+  "version": "0.0.0",
+  "description": "airbnb style guide for tslint",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtmthf/tslint-airbnb.git"
+  },
+  "keywords": [
+    "tslint",
+    "airbnb",
+    "typescript",
+    "eslint",
+    "style",
+    "style-guide"
+  ],
+  "author": "Jack Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtmthf/tslint-airbnb/issues"
+  },
+  "homepage": "https://github.com/jtmthf/tslint-airbnb#readme"
+}
